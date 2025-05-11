@@ -7,7 +7,9 @@
     .custome a{
 display: none;
     }
-
+. carousel-item img{ 
+   width: 90%;
+   height: auto;
 }
 
 .navbar{
@@ -38,8 +40,9 @@ display: none;
 }
 
 .carousel-item img{
-    height: 75vh !important;
-    width: 100%;
+    height: 100%;
+    width: 95%;
+   display:block;
 }
 .header {
     text-align: center;
